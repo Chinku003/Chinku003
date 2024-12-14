@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 iam daniel mwangi
+##welcome to my Github profile
 
-<!--
-**Chinku003/Chinku003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer passionate about:
+- 🖥️ Coding
+- 📊 Data Science
+- 🎮 Game Development
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🚀 My Skills:
+- Programming: Python,  Django, 
+- Tools: Git,  VS Code.
+## contact me through:
+ Linkedin[ ]
+## ⚡ Fun fact..
+-  "I’ve finished over 100 side quests in games, but still working on finishing one coding project.
 -->
