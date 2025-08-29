@@ -1,8 +1,9 @@
 ## Hi there 👋 iam daniel mwangi
+I am a passionate web developer with top skills in CSS, JavaScript, React, Angular, Python, and Django. My drive comes from a deep love for learning new things and an enthusiasm for programming. Outside of work, I enjoy exploring new languages, understanding emerging technologies, experimenting with Android devices and other gadgets, and indulging in videogaming.
 ##welcome to my Github profile
 
 I’m a software developer passionate about:
-- 🖥️ Coding
+- 🖥️ web development
 - 📊 Data Science
 - 🎮 Game Development
 
